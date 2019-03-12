@@ -1,0 +1,14 @@
+C:\Users\41587196824\Desktop\spmedical\SPMedicalGroup\bin\Debug\netcoreapp2.1\SPMedicalGroup.deps.json
+C:\Users\41587196824\Desktop\spmedical\SPMedicalGroup\bin\Debug\netcoreapp2.1\SPMedicalGroup.runtimeconfig.json
+C:\Users\41587196824\Desktop\spmedical\SPMedicalGroup\bin\Debug\netcoreapp2.1\SPMedicalGroup.runtimeconfig.dev.json
+C:\Users\41587196824\Desktop\spmedical\SPMedicalGroup\bin\Debug\netcoreapp2.1\SPMedicalGroup.dll
+C:\Users\41587196824\Desktop\spmedical\SPMedicalGroup\bin\Debug\netcoreapp2.1\SPMedicalGroup.pdb
+C:\Users\41587196824\Desktop\spmedical\SPMedicalGroup\obj\Debug\netcoreapp2.1\SPMedicalGroup.csprojAssemblyReference.cache
+C:\Users\41587196824\Desktop\spmedical\SPMedicalGroup\obj\Debug\netcoreapp2.1\SPMedicalGroup.csproj.CoreCompileInputs.cache
+C:\Users\41587196824\Desktop\spmedical\SPMedicalGroup\obj\Debug\netcoreapp2.1\SPMedicalGroup.RazorAssemblyInfo.cache
+C:\Users\41587196824\Desktop\spmedical\SPMedicalGroup\obj\Debug\netcoreapp2.1\SPMedicalGroup.RazorAssemblyInfo.cs
+C:\Users\41587196824\Desktop\spmedical\SPMedicalGroup\obj\Debug\netcoreapp2.1\SPMedicalGroup.AssemblyInfoInputs.cache
+C:\Users\41587196824\Desktop\spmedical\SPMedicalGroup\obj\Debug\netcoreapp2.1\SPMedicalGroup.AssemblyInfo.cs
+C:\Users\41587196824\Desktop\spmedical\SPMedicalGroup\obj\Debug\netcoreapp2.1\SPMedicalGroup.RazorTargetAssemblyInfo.cache
+C:\Users\41587196824\Desktop\spmedical\SPMedicalGroup\obj\Debug\netcoreapp2.1\SPMedicalGroup.dll
+C:\Users\41587196824\Desktop\spmedical\SPMedicalGroup\obj\Debug\netcoreapp2.1\SPMedicalGroup.pdb
