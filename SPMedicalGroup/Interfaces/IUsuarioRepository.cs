@@ -10,10 +10,12 @@ namespace SPMedicalGroup.Interface
     {
         void Cadastrar(Usuarios usuario);
 
-        void Listar(Usuarios usuario);
+        List<Usuarios> Listar();
 
         Usuarios BuscarPorEmailESenha(string email, string senha);
 
         void Login(Usuarios usuario);
+
+        void Deletar(Usuarios usuario);
     }
 }
